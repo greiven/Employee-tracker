@@ -1,6 +1,7 @@
 # Employee-tracker
 ![node](./assets/screenshot.PNG)
 
-Description
+Description:
+
 Node.js 
 Employee management system to add and manage Employees and Departments.
