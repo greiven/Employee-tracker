@@ -1,0 +1,31 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.1",
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greiven/employee-tracker.git"
+  },
+  "keywords": [
+    "web",
+    "github"
+  ],
+  "author": "Greivin Badilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greiven/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/greiven/employee-tracker#readme"
+}
